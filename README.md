@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmayghanwat10
-- 👀 I’m interested in ... web development, devops, Data science, Cyber security 
-- 🌱 I’m currently learning ... bachelor degree I'm computer science engineering 
+- 👀 I’m interested in ...Devops, Data Analytics, Data Science, Cyber Security 
+- 🌱 I’m currently learning ... bachelor degree in computer science engineering 
 - 💞️ I’m looking to collaborate on ... any association 
 - 📫 How to reach me ... Check LinkedIn https://in.linkedin.com/in/tanmay-ghanwat-572554232
 - 😄 Pronouns: ... Tanmay
